@@ -1,3 +1,3 @@
-# astrolabe-infra
+# compass-infra
 
-infrastructure for astrolabe application.
+Infrastructure for compass application. Written in CDK.
