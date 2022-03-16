@@ -1,5 +1,5 @@
 {
-  "app": "node bin/astrolabe-infra.js",
+  "app": "node bin/compass-infra.js",
   "watch": {
     "include": [
       "**"
