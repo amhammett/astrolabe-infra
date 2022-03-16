@@ -1,0 +1,40 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+coverage
+
+# API keys and secrets
+.env
+
+# production
+build
+dist/**/*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# CDK Context & Staging files
+cdk.context.json
+.cdk.staging/
+cdk.out
+cdk.out*
+*.tabl.json
